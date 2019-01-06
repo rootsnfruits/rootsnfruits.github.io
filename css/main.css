@@ -36,7 +36,8 @@ ul {
 
 .footer_social {
   display: block;
-  float: right;
+  text-align: center;
+  /* float: right; */
 }
 
 .copyright {
@@ -53,7 +54,7 @@ ul {
   float: right;
 }
 
-.navbar li, .footer li, .footer_social li {
+.navbar li, .footer li {
   float: left;
   position: relative;
   display: block;
@@ -82,5 +83,9 @@ ul {
   color: #777777;
   background-color: #fafafa;
   text-align: center;
+}
+
+.clearfix {
+  clear: both;
 }
 
