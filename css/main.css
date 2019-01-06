@@ -4,7 +4,13 @@ body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  border: 0;
+}
 
+table, tr, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
 }
 
 ul {
@@ -67,5 +73,14 @@ ul {
   font-size: 14px;
   font-weight: bold;
   text-decoration: none;
+}
+
+.contact_box {
+  display: block;
+  padding: 70px 10px 70px 10px;
+  font-size: 24px;
+  color: #777777;
+  background-color: #fafafa;
+  text-align: center;
 }
 
