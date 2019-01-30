@@ -37,6 +37,9 @@ ul {
 .footer_social {
   display: block;
   text-align: center;
+
+  background-color: #fff3d5;
+
   /* float: right; */
 }
 
