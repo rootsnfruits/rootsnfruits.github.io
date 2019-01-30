@@ -37,8 +37,7 @@ ul {
 .footer_social {
   display: block;
   text-align: center;
-
-  background-color: #fff3d5;
+  background-color: #ffd0dd;
 
   /* float: right; */
 }
@@ -84,7 +83,7 @@ ul {
   padding: 70px 10px 70px 10px;
   font-size: 24px;
   color: #ffffff;
-  background-color: #ffd0dd;
+  background-color: #fff3d5;
   text-align: center;
 }
 
