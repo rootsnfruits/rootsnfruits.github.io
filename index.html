@@ -50,17 +50,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
     <img src="img/Website-Cover1.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
     <img src="img/Website-Cover2.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
     <img src="img/Website-Cover3.png" style="width:100%">
   </div>
 
@@ -95,7 +92,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 2000); // Change image every 2 seconds
+  setTimeout(showSlides, 10000); // Change image every 2 seconds
 }
 </script>
 
