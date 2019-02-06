@@ -162,6 +162,7 @@ ul {
 }
 */
 
+/*
 carousel-fullscreen .carousel-inner .item {
     height: 100vh; 
     min-height: 600px; 
@@ -169,7 +170,4 @@ carousel-fullscreen .carousel-inner .item {
     background-repeat: no-repeat; 
     background-size: cover;
 }
-
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    width: 100%;
-}
+*/
