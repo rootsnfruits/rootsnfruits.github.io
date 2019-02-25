@@ -111,3 +111,8 @@ ul {
   clear: both;
   display: table;
 }
+
+img {
+ height: auto;
+}
+
