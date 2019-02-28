@@ -1,0 +1,9 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Roots n Fruits",
+  "url" : "http://www.rootsnfruits.in",
+  "sameAs" : [ "http://www.facebook.com/iloverootsnfruits",
+    "http://www.instagram.com/iloverootsnfruits"] 
+}
+</script>
